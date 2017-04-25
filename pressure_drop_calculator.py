@@ -92,7 +92,7 @@ def main():
 	
 	print "You will be prompted to input the following: "
 	print "Flow Velocity (m/s), Pipe length (m), Pipe diameter (m),bends (deg)"
-	print "Kinematic viscosity (m^2/s) and Pipe Absolute Roughness (m)"
+	print "Kinematic viscosity (m^2/s) and Pipe Absolute Roughness (m)\n"
 	
 	V = input("Please input flow velocity (m/s): ")
 	L = input("Please input pipe length (m): ")
